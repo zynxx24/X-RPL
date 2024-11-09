@@ -22,4 +22,4 @@ Deskripsi singkat tentang proyek Anda. Misalnya, "Proyek ini adalah aplikasi web
 
 ## Kontributor
 
-![Zynxx24](https://avatars.githubusercontent.com/u/136204040?v=4)
+<img src="https://avatars.githubusercontent.com/u/136204040?v=4" alt="Zynxx24" width="300" />

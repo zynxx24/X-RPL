@@ -22,5 +22,8 @@ can use vercell??
     ```wget -qO- https://get.pnpm.io/install.sh | sh -```
 
 ## Kontributor
+## Kontributor
 
-<img src="https://avatars.githubusercontent.com/u/136204040?v=4" alt="Zynxx24" width="200 />
+### Gambar Kontributor
+
+[![Zynxx](https://avatars.githubusercontent.com/u/136204040?v=4)](https://github.com/zynxx24)

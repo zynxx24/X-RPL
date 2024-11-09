@@ -1,6 +1,7 @@
-# [X RPL MODEREN]
+# X RPL Website 
 
-Deskripsi singkat tentang proyek Anda. Misalnya, "Proyek ini adalah aplikasi web yang membantu pengguna mengelola tugas sehari-hari."
+## Deploy with vercel
+can use vercell??
 
 ## Fitur
 
@@ -22,4 +23,4 @@ Deskripsi singkat tentang proyek Anda. Misalnya, "Proyek ini adalah aplikasi web
 
 ## Kontributor
 
-<img src="https://avatars.githubusercontent.com/u/136204040?v=4" alt="Zynxx24" width="300" />
+<img src="https://avatars.githubusercontent.com/u/136204040?v=4" alt="Zynxx24" width="200 />
